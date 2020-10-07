@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+  }
+  #y
+  {
+    color: blue;
+  }
+  #i
+  {
+    color:red;
+    text-rendering: optimizeLegibility;
+    font-weight: bolder;
+    font-family: 'Noto Sans', sans-serif;
+  }
